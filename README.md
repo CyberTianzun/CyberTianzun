@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working full time at XiaoMi, working part time at Eclosion Fund.
+- 😄 Interested in financial statistics and quantitative trading.
+- 🌱 Open source fancier in Rust, Scala, Python, etc.
+
 <!--
 **cnzx219/cnzx219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
