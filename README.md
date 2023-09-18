@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working full time at XiaoMi, working part time at Eclosion Fund.
 - 😄 Interested in financial statistics and quantitative trading.
 - 🌱 Open source fancier in Rust, Scala, Python, etc.
 - 🙃 DOTA2: the king of 2000 rank score
