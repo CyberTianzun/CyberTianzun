@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-- 😄 Interested in financial statistics and quantitative trading.
+- 😄 Interested in web3, financial statistics and quantitative trading.
 - 🌱 Open source fancier in Rust, Scala, Python, etc.
-- 🙃 DOTA2: the king of 2000 rank score
+- 🙃 DOTA2: the king of 2000 MMR period
+- 🏢️ Caeer: open for opportunities, contact me from tg @hiro_h1ro
 
 <!--
-**cnzx219/cnzx219** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CyberTianzun/CyberTianzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
