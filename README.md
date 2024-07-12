@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 😄 Interested in web3, financial statistics and quantitative trading.
-- 🌱 Open source fancier in Rust, Scala, Python, etc.
-- 🙃 DOTA2: the king of 2000 MMR period
+- 🌱 Open source fancier in Rust, Scala, Python, Java, etc.
+- 🙃 DOTA2: the king of 2000 MMR
 - 🏢️ Career: open for opportunities, contact me from tg @hiro_h1ro
 
 <!--
