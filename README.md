@@ -2,8 +2,7 @@
 
 - 😄 Interested in web3, financial statistics and quantitative trading.
 - 🌱 Open source fancier in Rust, Scala, Python, Java, etc.
-- 🙃 DOTA2: the king of 2000 MMR
-- 🏢️ Career: open for opportunities, contact me from tg @hiro_h1ro
+- 🙃 DOTA2: King of the 2000ish MMR
 
 <!--
 **CyberTianzun/CyberTianzun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
